@@ -1,1 +1,1 @@
-Git repo for timetable parsing program - test
+Git repo for timetable parsing program
